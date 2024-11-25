@@ -120,7 +120,7 @@ const styles = StyleSheet.create({
     noMatchText: {
         flex: 1,
         textAlign: 'center',
-        marginTop: 20, // Adjust this value to center it vertically as needed
+        marginTop: 20,
         fontSize: 18,
         fontWeight: 'bold',
     },
